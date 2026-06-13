@@ -15,8 +15,8 @@ This program takes a student's score as input and displays the corresponding gra
 #### Sample Output
 
 ```text
-Enter your score: 95
-Grade: A
+Enter your score: 75
+Grade: C
 ```
 
 ---
