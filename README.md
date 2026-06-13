@@ -109,10 +109,10 @@ Hello, this is my first file handling program.
 ## How to Run
 
 ```bash
-python grade_checker.py
-python student_grades.py
-python write_file.py
-python read_file.py
+python3 grade-checker.py
+python3 student-grades.py
+python3 write-file.py
+python3 read-file.py
 ```
 
 ## Repository Structure
