@@ -19,6 +19,9 @@ Enter your score: 75
 Grade: C
 ```
 
+<img width="959" height="599" alt="grade-checker" src="https://github.com/user-attachments/assets/cf107466-c3a4-41ef-8c07-6459c2bba08f" />
+
+
 ---
 
 ### 2. Student Grades
@@ -44,6 +47,9 @@ Student Grades:
 Rahul : B
 ```
 
+<img width="959" height="599" alt="student-grades" src="https://github.com/user-attachments/assets/e01f3a41-7de4-4730-94ed-ff8e406b99dd" />
+
+
 ---
 
 ### 3. Write to a File
@@ -68,6 +74,9 @@ Content written to output.txt successfully.
 Hello, this is my first file handling program.
 ```
 
+<img width="959" height="599" alt="write-file" src="https://github.com/user-attachments/assets/a330c660-884a-4c1d-baa9-ce20a07d0994" />
+
+
 ---
 
 ### 4. Read from a File
@@ -86,11 +95,14 @@ This program reads content from a text file and displays it on the screen.
 Hello, this is my first file handling program.
 ```
 
+<img width="959" height="599" alt="read-file" src="https://github.com/user-attachments/assets/8e277017-e3e5-47ca-bc5e-a1f8e602e938" />
+
+
 ---
 
 ## Technologies Used
 
-* Python 3
+* Python3
 * Git
 * GitHub
 
