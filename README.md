@@ -1,9 +1,5 @@
 # Tutedude Python Assignment
 
-## Student Name
-
-Pawan Kalyan
-
 ## Assignment Tasks
 
 ### 1. Grade Checker
