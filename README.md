@@ -106,10 +106,10 @@ python read_file.py
 ## Repository Structure
 
 ```text
-grade_checker.py
-student_grades.py
-write_file.py
-read_file.py
+grade-checker.py
+student-grades.py
+write-file.py
+read-file.py
 output.txt
 README.md
 ```
